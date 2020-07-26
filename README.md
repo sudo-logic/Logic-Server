@@ -18,7 +18,7 @@ sudo apt -y update
 sudo apt install -y python python2.7 libsdl2-2.0.0 libpython2.7 python-pip git
 git clone https://github.com/Awesome-Logic/Logic-Server.git
 cd Logic-Server
-cp config-sample config.py
+cp config-sample.py config.py
 nano config.py
 ```
 
