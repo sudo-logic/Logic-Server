@@ -43,6 +43,7 @@ The server will stop working if it finds a new version and is not updated.
 
 ## Feature Requests
 Discord - [RAGE](https://discord.com/invite/XwNTJDU)
+
 Telegram - @AwesomeLogic
 
 ## Feature Requests
