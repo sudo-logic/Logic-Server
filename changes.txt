@@ -1,3 +1,7 @@
+[1.2.1]
+- Fixed Powerups when interactive mode is off.
+- Fixed TNT.
+
 [1.2]
 - Added new /take command for admins.
 - Added many new customisation options.
