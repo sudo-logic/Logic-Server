@@ -1,3 +1,6 @@
+[1.3]
+- Added a translator.
+
 [1.2.1]
 - Fixed Powerups when interactive mode is off.
 - Fixed TNT.
