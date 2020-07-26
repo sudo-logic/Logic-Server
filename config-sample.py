@@ -24,3 +24,7 @@ config['snowfall'] = False
 config['extra_sparkles'] = True
 config['earned_msg'] = True #Toggle for the "You have earned ** tickets" message
 config['show_tag'] = True #Toggle for the custom plater tag system.
+config['interactive_powerups'] = True #If turned on, powerups can be picked up and punched
+config['logic_team_settings'] = True #Turn this off to use your own team names
+config['custom_tnt'] = True
+config['default_game_time_limit'] = 3 #In minutes. Time after which game will automatically end if no time limit was provided while making playlist

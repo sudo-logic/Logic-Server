@@ -1,3 +1,9 @@
-1.1 - Added toggles for different server settings to config.py
+[1.2]
+- Added new /take command for admins.
+- Added many new customisation options.
 
-1.0 - First Release
+[1.1]
+- Added toggles for different server settings to config.py
+
+[1.0]
+- Initial Release

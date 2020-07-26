@@ -32,6 +32,7 @@ The Server automatically creates a 'data' folder outside the Logic-Server folder
 - Add a help page (help.txt)
 - Add a flyer (text that appears in the beginning of every match and smoothly transitions out after sometime) (flyer.txt)
 
+Once the server is up and running, use '/admin <player_name/id/cliend_id>' to make more admins
 
 To update the server, simply use git pull.
 ```bash
@@ -39,6 +40,10 @@ cd Logic-Server
 git pull
 ```
 The server will stop working if it finds a new version and is not updated.
+
+## Feature Requests
+Discord - [RAGE](https://discord.com/invite/XwNTJDU)
+Telegram - @AwesomeLogic
 
 ## Feature Requests
 For changes, please open an issue first to discuss what you would like to change.
