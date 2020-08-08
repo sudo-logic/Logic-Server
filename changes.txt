@@ -1,3 +1,6 @@
+[1.4.1]
+- Internal Code Cleanup
+
 [1.4]
 - Major improvements in scripts to reduce lag spikes when hosted server is far from the master server.
 - Added shameless github link plug at the bottom left corner. :)
@@ -21,6 +24,7 @@
 
 [1.0]
 - Initial Release
+
 
 
 
