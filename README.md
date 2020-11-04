@@ -1,4 +1,4 @@
-# NOTE - Check out https://github.com/Awesome-Logic/Logic-BS-Server-Source for non encrypted version.
+# NOTE - Check out [this repo](https://github.com/Awesome-Logic/Logic-BS-Server-Source) for non encrypted version.
 
 # Logic Server
 
