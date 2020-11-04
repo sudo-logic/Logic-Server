@@ -1,3 +1,5 @@
+# NOTE - Check out https://github.com/Awesome-Logic/Logic-BS-Server-Source for non encrypted version.
+
 # Logic Server
 
 This is an encrypted copy of Logic Server for BombSquad.
