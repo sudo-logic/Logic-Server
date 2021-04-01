@@ -37,7 +37,7 @@ if binary_path is None:
 config = {}
 
 # Name of our server in the public parties list
-config['partyName'] = 'FFA'
+config['partyName'] = 'teams India 7'
 
 # If True, your party will show up in the global public party list
 # Otherwise it will still be joinable via LAN or connecting by IP address
@@ -60,12 +60,12 @@ config['language'] = 'English'
 # multiple controllers. Also, this number currently includes the server so
 # generally make it 1 bigger than you need. Max-players is not currently
 # exposed but I'll try to add that soon.
-config['maxPartySize'] = 6
+config['maxPartySize'] = 8
 
-# Options here are 'ffa' (free-for-all) and 'teams'
+# Options here are 'teams' (free-for-all) and 'teams'
 # this value is only used if you do not supply a playlistCode (see below);
 # in that case the default teams or free-for-all playlist gets used
-config['sessionType'] = 'ffa'
+config['sessionType'] = 'teams'
 
 # To host your own custom playlists, use the 'share' functionality in the
 # playlist editor in the regular version of the game.
@@ -99,9 +99,9 @@ config['telnetPassword'] = 'changeme'
 # Series length in teams mode (7 == 'best-of-7' series; a team must get 4 wins)
 config['teamsSeriesLength'] = 7
 
-# Points to win in free-for-all mode (Points are awarded per game based on
+# Points to win in teams mode (Points are awarded per game based on
 # performance)
-config['ffaSeriesScoreToWin'] = 24
+config['teamsSeriesScoreToWin'] = 24
 
 # If you provide a custom stats webpage for your server, you can use
 # this to provide a convenient in-game link to it in the server-browser
