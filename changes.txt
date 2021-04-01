@@ -16,14 +16,14 @@
 - Fixed TNT.
 
 [1.2]
-- Added new /take command for admins.
+- Added new /take command for admins chandrashekar626 and teju688
 - Added many new customisation options.
 
 [1.1]
 - Added toggles for different server settings to config.py
 
 [1.0]
-- Initial Release
+- Initial Release 1/4/2021
 
 
 
